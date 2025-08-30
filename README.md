@@ -18,9 +18,9 @@ Contact **@700service.exe** on discord if you want any more info or need help wi
    ```
 
 5. **Access Endpoints:**
-   - Main: http://localhost:thesetportinconfig
-   - Health: http://localhost:thesetportinconfig/health  
-   - Admin: http://localhost:thesetportinconfig/admin/status
+   - Main: ```http://localhost:thesetportinconfig```
+   - Health: ```http://localhost:thesetportinconfig/health```  
+   - Admin: ```http://localhost:thesetportinconfig/admin/status```
 
 ## More access endpoints and what they do:
 
