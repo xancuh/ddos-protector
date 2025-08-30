@@ -8,7 +8,7 @@ Contact **@700service.exe** on discord if you want any more info or need help wi
    ```bash
    npm install
    ```
-2. 3. **Configure Settings**
+2. **Configure Settings**
    Edit `config.js` to customize protection parameters. This is important because it needs a proper port and baseUrl to actually run.
 
 3. **Start Protection**
