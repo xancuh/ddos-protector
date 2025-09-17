@@ -25,7 +25,7 @@ Also, FYI, if you see ::1 anywhere it is the loopback for 127.0.0.1, aka. `local
    - Health: ```http://localhost:thesetportinconfig/health```  
    - Admin: ```http://localhost:thesetportinconfig/admin/status```
 
-## More access endpoints and what they do:
+## More about the access endpoints and what they do:
 
 ### GET /
 Basic endpoint returning protection status
