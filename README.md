@@ -2,9 +2,7 @@
 In Lua, protects you from any unwanted packets being sent to your local network or server.
 This is open-source, feel free to fork this all you want.
 
-Contact **@700service.exe** on discord if you want any more info or need help with something.
-
-Also, FYI, if you see ::1 anywhere it is the loopback for 127.0.0.1, aka. `localhost`!
+Contact **@assetdelivery** on discord if you want any more info or need help with something.
 
 # How to setup:
 1. **Install Dependencies**
